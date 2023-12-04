@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+![screencapture-localhost-3000-2023-12-04-20_39_36](https://github.com/julio09/bento-grid/assets/51336933/da978098-118b-4a8d-9d61-566e2db3d96a)
